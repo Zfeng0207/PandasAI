@@ -1,0 +1,6 @@
+pandas
+chainlit
+python-dotenv
+pandasai
+langchain-community
+openai
